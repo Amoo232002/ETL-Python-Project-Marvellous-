@@ -1,0 +1,34 @@
+,country,capital_x,region,continents,area,population,iso2,iso3,id,iso2code,capital_y,longitude,latitude,region.value,incomelevel.value,lendingtype.value
+0,Chile,Santiago,Americas,South America,756102.0,19116209,CL,CHL,CHL,CL,Santiago,-70.6475,-33.475,Latin America & Caribbean ,High income,IBRD
+1,Benin,Porto-Novo,Africa,Africa,112622.0,12123198,BJ,BEN,BEN,BJ,Porto-Novo,2.6323,6.4779,Sub-Saharan Africa ,Lower middle income,IDA
+2,Belgium,Brussels,Europe,Europe,30528.0,11555997,BE,BEL,BEL,BE,Brussels,4.36761,50.8371,Europe & Central Asia,High income,Not classified
+3,Andorra,Andorra la Vella,Europe,Europe,468.0,77265,AD,AND,AND,AD,Andorra la Vella,1.5218,42.5075,Europe & Central Asia,High income,Not classified
+4,Argentina,Buenos Aires,Americas,South America,2780400.0,45376763,AR,ARG,ARG,AR,Buenos Aires,-58.4173,-34.6118,Latin America & Caribbean ,Upper middle income,IBRD
+5,Belize,Belmopan,Americas,North America,22966.0,397621,BZ,BLZ,BLZ,BZ,Belmopan,-88.7713,17.2534,Latin America & Caribbean ,Upper middle income,Blend
+6,Bangladesh,Dhaka,Asia,Asia,147570.0,164689383,BD,BGD,BGD,BD,Dhaka,90.4113,23.7055,South Asia,Lower middle income,IDA
+7,Afghanistan,Kabul,Asia,Asia,652230.0,40218234,AF,AFG,AFG,AF,Kabul,69.1761,34.5228,"Middle East, North Africa, Afghanistan & Pakistan",Low income,IDA
+8,Bulgaria,Sofia,Europe,Europe,110879.0,6927288,BG,BGR,BGR,BG,Sofia,23.3238,42.7105,Europe & Central Asia,High income,IBRD
+9,United Arab Emirates,Abu Dhabi,Asia,Asia,83600.0,9890400,AE,ARE,ARE,AE,Abu Dhabi,54.3705,24.4764,"Middle East, North Africa, Afghanistan & Pakistan",High income,Not classified
+10,Central African Republic,Bangui,Africa,Africa,622984.0,4829764,CF,CAF,CAF,CF,Bangui,21.6407,5.63056,Sub-Saharan Africa ,Low income,IDA
+11,Austria,Vienna,Europe,Europe,83871.0,8917205,AT,AUT,AUT,AT,Vienna,16.3798,48.2201,Europe & Central Asia,High income,Not classified
+12,Bhutan,Thimphu,Asia,Asia,38394.0,771612,BT,BTN,BTN,BT,Thimphu,89.6177,27.5768,South Asia,Lower middle income,IDA
+13,Brazil,Brasília,Americas,South America,8515767.0,212559409,BR,BRA,BRA,BR,Brasilia,-47.9292,-15.7801,Latin America & Caribbean ,Upper middle income,IBRD
+14,Angola,Luanda,Africa,Africa,1246700.0,32866268,AO,AGO,AGO,AO,Luanda,13.242,-8.81155,Sub-Saharan Africa ,Lower middle income,IBRD
+15,Aruba,Oranjestad,Americas,North America,180.0,106766,AW,ABW,ABW,AW,Oranjestad,-70.0167,12.5167,Latin America & Caribbean ,High income,Not classified
+16,Australia,Canberra,Oceania,Oceania,7692024.0,25687041,AU,AUS,AUS,AU,Canberra,149.129,-35.282,East Asia & Pacific,High income,Not classified
+17,Botswana,Gaborone,Africa,Africa,582000.0,2351625,BW,BWA,BWA,BW,Gaborone,25.9201,-24.6544,Sub-Saharan Africa ,Upper middle income,IBRD
+18,Albania,Tirana,Europe,Europe,28748.0,2837743,AL,ALB,ALB,AL,Tirane,19.8172,41.3317,Europe & Central Asia,Upper middle income,IBRD
+19,American Samoa,Pago Pago,Oceania,Oceania,199.0,55197,AS,ASM,ASM,AS,Pago Pago,-170.691,-14.2846,East Asia & Pacific,High income,Not classified
+20,Bolivia,Sucre,Americas,South America,1098581.0,11673029,BO,BOL,BOL,BO,La Paz,-66.1936,-13.9908,Latin America & Caribbean ,Lower middle income,IBRD
+21,Burundi,Gitega,Africa,Africa,27834.0,11890781,BI,BDI,BDI,BI,Bujumbura,29.3639,-3.3784,Sub-Saharan Africa ,Low income,IDA
+22,Bahrain,Manama,Asia,Asia,765.0,1701583,BH,BHR,BHR,BH,Manama,50.5354,26.1921,"Middle East, North Africa, Afghanistan & Pakistan",High income,Not classified
+23,Canada,Ottawa,Americas,North America,9984670.0,38005238,CA,CAN,CAN,CA,Ottawa,-75.6919,45.4215,North America,High income,Not classified
+24,Burkina Faso,Ouagadougou,Africa,Africa,272967.0,20903278,BF,BFA,BFA,BF,Ouagadougou,-1.53395,12.3605,Sub-Saharan Africa ,Low income,IDA
+25,Antigua and Barbuda,Saint John's,Americas,North America,442.0,97928,AG,ATG,ATG,AG,Saint John's,-61.8456,17.1175,Latin America & Caribbean ,High income,IBRD
+26,Barbados,Bridgetown,Americas,North America,430.0,287371,BB,BRB,BRB,BB,Bridgetown,-59.6105,13.0935,Latin America & Caribbean ,High income,IBRD
+27,Belarus,Minsk,Europe,Europe,207600.0,9398861,BY,BLR,BLR,BY,Minsk,27.5766,53.9678,Europe & Central Asia,Upper middle income,IBRD
+28,Bermuda,Hamilton,Americas,North America,54.0,63903,BM,BMU,BMU,BM,Hamilton,-64.706,32.3293,North America,High income,Not classified
+29,Bosnia and Herzegovina,Sarajevo,Europe,Europe,51209.0,3280815,BA,BIH,BIH,BA,Sarajevo,18.4214,43.8607,Europe & Central Asia,Upper middle income,IBRD
+30,Switzerland,Bern,Europe,Europe,41284.0,8654622,CH,CHE,CHE,CH,Bern,7.44821,46.948,Europe & Central Asia,High income,Not classified
+31,Armenia,Yerevan,Asia,Asia,29743.0,2963234,AM,ARM,ARM,AM,Yerevan,44.509,40.1596,Europe & Central Asia,Upper middle income,IBRD
+32,Azerbaijan,Baku,Asia,Asia,86600.0,10110116,AZ,AZE,AZE,AZ,Baku,49.8932,40.3834,Europe & Central Asia,Upper middle income,IBRD
